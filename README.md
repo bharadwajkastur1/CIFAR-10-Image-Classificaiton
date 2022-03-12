@@ -1,2 +1,2 @@
-# CIFAR-1O-Image-Classificaiton-
+# CIFAR-10-Image-Classificaiton
 Classifying the image types from the dataset 
